@@ -1,0 +1,3 @@
+My project is complete and it does the tasks that it is required to do. The comments located in the code show what is going on and should help the reader understand what is happening when the code is passed.
+
+Extra Credit: I was able to do the second extra credit option which was the Good spell checking. My suggestions are all correct spellings. The code is located in the suggestions part which can be found in Storage.java.
